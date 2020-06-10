@@ -1,24 +1,43 @@
-# README
+# My First Rails App
+Practice creating a basic app with RoR. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Built With
+- Ruby
+- RoR
+- VSCode
 
-Things you may want to cover:
+# Prerequisites
+- Install Ruby's latest version
 
-* Ruby version
+# Author
 
-* System dependencies
+👤 Javier Oriol Correas Sanchez Cuesta
 
-* Configuration
+- Github: [@javitocor](https://github.com/javitocor)
+- Twitter: [@JavierCorreas4](https://twitter.com/JavierCorreas4)
+- Linkedin: [Javier Oriol Correas Sanchez Cuesta](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/)
 
-* Database creation
+# 🤝 Contributing
+Contributions, issues and feature requests are welcome! Start by:
 
-* Database initialization
+- Forking the project.
+- Cloning the project to your local machine.
+- cd into the project directory.
+- Run git checkout -b your-branch-name.
+- Make your contributions.
+- Push your branch up to your forked repository.
+- Open a Pull Request with a detailed description to the development branch of the original project for a review.
 
-* How to run the test suite
+# Attributions and Credit 🚀
+- Microverse
+- The Odin Project
 
-* Services (job queues, cache servers, search engines, etc.)
+# Show your support
+Give a ⭐️ if you like this project!
 
-* Deployment instructions
+📝 License
 
-* ...
+Check out my stories on medium to see what I'm talking about! Follow me on Instagram and Twitter to see what I am up to!
+
+Enjoy!
+
